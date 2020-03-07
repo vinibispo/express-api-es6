@@ -1,6 +1,6 @@
 {
   "name": "express-api-es6",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "./lib/index.js",
   "bin": {
     "express-es6": "bin/index.js"
